@@ -1,6 +1,6 @@
-# Sentinel: AI Video Threat Analysis
+# smart-surveillance-anomaly-detection
 
-Sentinel is a multimodal AI-powered web application that performs frame-by-frame analysis of surveillance videos to detect threats such as violence, accidents, fire, theft, and other anomalies in real-time.
+It is a multimodal AI-powered web application that performs frame-by-frame analysis of surveillance videos to detect threats such as violence, accidents, fire, theft, and other anomalies in real-time.
 
 ## Features
 
