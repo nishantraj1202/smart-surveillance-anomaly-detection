@@ -1,4 +1,4 @@
-# Guardian Eye (Sentinel) - Architectural Flow & Technical Specifications
+# Smart-surveillance-anomaly-detection
 
 ## 1. System Overview
 
